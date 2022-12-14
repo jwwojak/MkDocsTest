@@ -1,2 +1,4 @@
-# MkDocsTest
-This is a test of hosting MkDocs with GitHub Pages
+# About
+
+A test space for Python.
+
