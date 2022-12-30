@@ -39,6 +39,7 @@ print('End of list.')
 # Note below the range goes to 11 in order to get 10.
 
 #for myNumber in range(1,11,1): # Range argument is 'start int', 'stop int', 'increment'
+
 #    print(myNumber)
 #print('End of list')
 
