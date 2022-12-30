@@ -37,5 +37,5 @@ for i in grades:
     sum += i
     res = sum/len(grades)
 for i in range(0,numGrades,1):
-    print('Your grades are:', grades[i])
+    print('Your grade is:', grades[i])
 print('Your grade average is:' + str(res))
